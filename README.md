@@ -48,6 +48,7 @@
 | 10.   | Combining all Methods | This notebook compares the combined performance of all methods explained. | Completed |
 
 
+
 # Wrapper Methods
 
 | S.No. |       Name        |                           About                                    |    Status    |
